@@ -1,0 +1,17 @@
+name: prueba_application_3
+description: Una descripción de mi proyecto.
+
+# Versión de Dart SDK que utilizará el proyecto.
+# Puedes ajustar la versión según tus necesidades.
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+# Dependencias del proyecto
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+  http: ^1.2.1 # Dependencia para realizar solicitudes HTTP
+
+# Puedes incluir otras configuraciones aquí según sea necesario.
